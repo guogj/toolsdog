@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "Vue.volar",
+    "antfu.iconify",
+    "antfu.unocss"
+  ]
+}
